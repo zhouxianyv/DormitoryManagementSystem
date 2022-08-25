@@ -1,11 +1,8 @@
 .DS_Store
 node_modules/
-www/*
-public/uploads/banner/*
-public/uploads/category/*
-public/wangeditor/html/*
-public/wangeditor/img/*
-tempDir/*
+www/
+public/
+tempDir/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
